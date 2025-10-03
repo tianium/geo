@@ -1,0 +1,44 @@
+// @ts-check
+import { defineConfig } from 'astro/config';
+import starlight from '@astrojs/starlight';
+
+// https://astro.build/config
+export default defineConfig({
+	integrations: [
+		starlight({
+			title: '诺克斯的宝藏',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/tianium' }],
+			sidebar: [
+				{
+					label: '开始',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: '总览', slug: 'guides/example' },
+						{ label: '必要的准备', slug: 'guides/zhunbei' },
+					],
+				},
+				{
+					label: '网站生成工具',
+					autogenerate: { directory: 'ssg' },
+				},
+				{
+					label: '邮件',
+					autogenerate: { directory: 'mail' },
+				},
+				{
+					label: '域名',
+					autogenerate: { directory: 'domain' },
+				},
+				{
+					label: '部署平台',
+					autogenerate: { directory: 'serverless' },
+				}
+			],
+		}),
+	],
+	server:{
+		host:true,
+		port:4321,
+		allowedHosts:['4321.app.cloudstudio.work'],
+	},
+});

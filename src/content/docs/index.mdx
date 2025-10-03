@@ -1,0 +1,36 @@
+---
+title: 欢迎来到 诺克斯的宝藏
+description: A docs site with Starlight.
+template: splash
+hero:
+  tagline: 学习 分享 发现!
+  image:
+    file: ../../assets/houston.webp
+  actions:
+    - text: 立即开始
+      link: /guides/example/
+      icon: right-arrow
+    - text: GitHub
+      link: https://github.com/tianium/geo
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## 这里提供
+
+<CardGrid stagger>
+	<Card title="原则" icon="pencil">
+		少即是多
+	</Card>
+	<Card title="简便" icon="add-document">
+		零成本或低成本
+	</Card>
+	<Card title="目标" icon="setting">
+		开发自己的网站、创建服务、展示作品
+	</Card>
+	<Card title="列表" icon="open-book">
+		精选的用于建站的互联网资源、易于使用的解决方案
+	</Card>
+</CardGrid>
