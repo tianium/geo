@@ -18,7 +18,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: '网站生成工具',
+					label: '网站生成',
 					autogenerate: { directory: 'ssg' },
 				},
 				{
