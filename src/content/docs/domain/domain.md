@@ -5,14 +5,6 @@ description: 如何使用 Starlight 内置的锚点链接
 
 ## 二级域名
 
-- Cloudns
- 
-https://www.cloudns.net/
-
-提供一个免费二级域名，同时也是DNS服务商，支持GeoDNS解析。
-
-支持Cloudflare,新域需一定时间。
-
 - DigitalPlat FreeDomain
 
 https://domain.digitalplat.org/
@@ -24,6 +16,12 @@ dpdns.org
 qzz.io
 
 支持Cloudflare。
+
+- Cloudns
+ 
+https://www.cloudns.net/
+
+提供一个免费二级域名，同时也是DNS服务商，支持GeoDNS解析。
 
 ## 开发者相关的免费域
 

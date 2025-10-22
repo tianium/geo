@@ -9,7 +9,7 @@ description: A reference page in my new Starlight docs site.
 
 https://docs.astro.build/zh-cn/getting-started/
 
-Astro 是一个新型的 Web 框架，适合构建博客、营销网站、电子商务网站这样以内容驱动的网站。与其他前端框架相比，它减少了 JavaScript 的开销和复杂性，如果你需要一个加载速度快、具有良好 SEO 的网站，那么 Astro 将是一个好选。
+Astro 是一个新型的 Web 框架，适合构建博客、营销、电子商务这样以内容驱动的网站。与其他前端框架相比，它减少了 JavaScript 的开销和复杂性，如果你需要一个加载速度快、具有良好 SEO 的站点，那么 Astro 将是一个好选择。
 
 - Hugo
 

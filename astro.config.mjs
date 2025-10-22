@@ -13,7 +13,7 @@ export default defineConfig({
 					label: '开始',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: '总览', slug: 'guides/example' },
+						{ label: '总览', slug: 'guides/overview' },
 						{ label: '必要的准备', slug: 'guides/zhunbei' },
 					],
 				},
