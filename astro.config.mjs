@@ -7,7 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: '诺克斯的宝藏',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/tianium' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/tianium/geo' }],
 			sidebar: [
 				{
 					label: '开始',
@@ -32,6 +32,10 @@ export default defineConfig({
 				{
 					label: '部署平台',
 					autogenerate: { directory: 'serverless' },
+				},
+				{
+					label: '好用的软件',
+					autogenerate: { directory: 'software' },
 				}
 			],
 		}),

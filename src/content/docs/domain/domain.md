@@ -17,6 +17,20 @@ qzz.io
 
 支持Cloudflare。
 
+- DNSHE
+
+https://www.dnshe.com/
+
+提供免费域名：
+
+de5.net
+
+us.ci
+
+cc.cd
+
+de5.net 支持Cloudflare。
+
 - Cloudns
  
 https://www.cloudns.net/
