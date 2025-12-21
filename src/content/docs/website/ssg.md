@@ -3,13 +3,13 @@ title: 生成静态网站
 description: A reference page in my new Starlight docs site.
 ---
 
-## 网站、博客
+## 网站和博客
 
 - Astro
 
 https://docs.astro.build/zh-cn/getting-started/
 
-Astro 是一个新型的 Web 框架，适合构建博客、营销、电子商务这样以内容驱动的网站。与其他前端框架相比，它减少了 JavaScript 的开销和复杂性，如果你需要一个加载速度快、具有良好 SEO 的站点，那么 Astro 将是一个好选择。
+Astro 是一个新型的 Web 框架，适合构建以内容驱动的网站。它减少了 JavaScript 的开销和复杂性，加载速度快，具有良好的 SEO 特性。
 
 - Hugo
 
@@ -39,5 +39,13 @@ https://docusaurus.io/zh-CN/docs
 
 Meta背景的文档程序。
 
+## 人工智能生成
 
+复杂网站：IDE安装AI插件或直接使用AI IDE。
+
+一般网站、小游戏页面：直接与聊天机器人使用自然语言对话即可生成，然后将代码上传服务器。
+
+- ChatGPT
+
+https://chatgpt.com/
 

@@ -14,12 +14,12 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: '总览', slug: 'guides/overview' },
-						{ label: '必要的准备', slug: 'guides/zhunbei' },
+						{ label: '必要的准备', slug: 'guides/readiness' },
 					],
 				},
 				{
 					label: '网站生成',
-					autogenerate: { directory: 'ssg' },
+					autogenerate: { directory: 'website' },
 				},
 				{
 					label: '邮件',
@@ -36,6 +36,10 @@ export default defineConfig({
 				{
 					label: '好用的软件',
 					autogenerate: { directory: 'software' },
+				},
+				{
+					label: '支付和理财',
+					autogenerate: { directory: 'finance' },
 				}
 			],
 		}),

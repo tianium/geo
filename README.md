@@ -1,16 +1,14 @@
-# Starlight Starter Kit: Basics
+# Knox's Treasure
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-```
-npm create astro@latest -- --template starlight
-```
+Learn, share, and discover interesting content about the Internet online.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+> 🧑‍🚀 **Seasoned geographer?**  Have fun!
 
 ## 🚀 Project Structure
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+Inside of this project, you'll see the following folders and files:
 
 ```
 .
@@ -46,4 +44,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+Check out [Starlight’s docs](https://starlight.astro.build/),  jump to [Knox's Treasure](https://docs.foss.dpdns.org).
