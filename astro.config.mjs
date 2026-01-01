@@ -40,6 +40,10 @@ export default defineConfig({
 				{
 					label: '支付和理财',
 					autogenerate: { directory: 'finance' },
+				},
+				{
+					label: '常见问题',
+					autogenerate: { directory: 'faq' },
 				}
 			],
 		}),

@@ -10,7 +10,7 @@ description: A guide in my new Starlight docs site.
 
 桌面和移动版： https://www.onlyoffice.com/zh/download-desktop
 
-同样是无广告打扰，但比[LibreOffice](https://www.libreoffice.org/)更轻量，资源占用少一点，速度快一点。
+同样是无广告无打扰，但比[LibreOffice](https://www.libreoffice.org/)更轻量，资源占用少一点，速度快一点。
 
 ## GitHub 加速
 

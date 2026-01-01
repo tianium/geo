@@ -1,9 +1,11 @@
 ---
-title: 生成静态网站
+title: 内容建设
 description: A reference page in my new Starlight docs site.
 ---
 
-## 网站和博客
+## 使用程序创建内容网站
+
+### 网站和博客
 
 - Astro
 
@@ -25,7 +27,7 @@ https://hexo.io/zh-cn/docs/
 
 博客和网站构建程序。
 
-## 文档站
+### 文档站
 
 - Starlight
 
@@ -39,7 +41,7 @@ https://docusaurus.io/zh-CN/docs
 
 Meta背景的文档程序。
 
-## 人工智能生成
+## 使用人工智能生成小型项目
 
 复杂网站：IDE安装AI插件或直接使用AI IDE。
 
