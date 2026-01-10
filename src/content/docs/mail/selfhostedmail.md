@@ -1,6 +1,6 @@
 ---
 title: 可自己部署的项目
-description: A reference page in my new Starlight docs site.
+description: A page in my Starlight docs site.
 ---
 
 

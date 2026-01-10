@@ -21,14 +21,6 @@ Learn, share, and discover interesting content about the Internet online.
 └── tsconfig.json
 ```
 
-## 🧞 Commands
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run preview`         | Preview your build locally, before deploying     |
-
 ## 👀 Want to learn more?
 
 Check out [Starlight’s docs](https://starlight.astro.build/),  jump to [Knox's Treasure](https://docs.foss.dpdns.org).

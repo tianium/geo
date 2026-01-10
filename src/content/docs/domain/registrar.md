@@ -9,7 +9,7 @@ sidebar:
 
 https://dash.cloudflare.com/
 
-通过 Cloudflare Registrar 以成本价购买和续订域名，无需加价,只需支付注册管理机构和 ICANN 收取的费用。
+通过 Cloudflare Registrar 以成本价购买和续订域名，无需加价，只需支付注册管理机构和 ICANN 收取的费用。
 
 - Spaceship & Namecheap
 

@@ -1,6 +1,8 @@
 ---
 title: 无需付费的域名
-description: 如何使用 Starlight 内置的锚点链接
+description: 如何注册免费域名
+sidebar:
+  order: 2
 ---
 
 ## 二级域名
@@ -29,7 +31,7 @@ us.ci
 
 cc.cd
 
-de5.net 支持Cloudflare。
+全部支持Cloudflare。
 
 - Cloudns
  

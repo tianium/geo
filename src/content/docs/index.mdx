@@ -17,6 +17,7 @@ hero:
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Icon } from '@astrojs/starlight/components';
 
 ## 这里提供
 
@@ -24,29 +25,33 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 	<Card title="原则" icon="pencil">
 		少即是多
 	</Card>
-	<Card title="简便" icon="add-document">
+	<Card title="目标" icon="add-document">
 		开发自己的网站，创建内容，展示作品，无需基础，低成本部署
 	</Card>
-	<Card title="目标" icon="setting">
-		为创建网站、文档、博客、作品集、小游戏提供易于使用的解决方案 
-		<a href="/guides/overview" class="card-arrow" aria-label={`查看`}>
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <line x1="5" y1="12" x2="19" y2="12"></line>
-        <polyline points="12 5 19 12 12 19"></polyline>
-        </svg>
-        </a>
+	<Card title="内容" icon="setting">
+		为创建网站、文档、博客、作品集、小游戏提供易于使用的解决方案 [<Icon name="external" color="var(--sl-color-text-accent)" size="1.5rem" />](/guides/overview/)
 	</Card>
 	<Card title="列表" icon="open-book">
-		各种好用软件收藏
-		<a href="/software/software" class="card-arrow" aria-label={`查看`}>
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <line x1="5" y1="12" x2="19" y2="12"></line>
-        <polyline points="12 5 19 12 12 19"></polyline>
-        </svg>
-        </a>
+		各种好用软件收藏 [<Icon name="external" color="var(--sl-color-text-accent)" size="1.5rem" />](/software/software/)
 	</Card>
 </CardGrid>
 
 <footer class="homepage-footer">
-  <a href="https://icp.gov.moe/?keyword=20269789" target="_blank">萌ICP备20269789号</a>
+  <div 
+    style="
+      text-align:center;
+      margin: 5rem 0;
+    "
+    >
+  <a
+    href="https://icp.gov.moe/?keyword=20269789" 
+    target="_blank；"
+    style="
+      text-decoration:none;
+      color: black;
+      "
+  >
+    萌ICP备20269789号
+  </a>
+  </div>
 </footer>
