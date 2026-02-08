@@ -8,13 +8,13 @@ description: A guide in my new Starlight docs site.
 
 https://www.paypal.com
 
-注意与.cn域名地址区分，两个地址的账户是独立的，建议使用.com域名地址。
+注意还有一个.cn域名的地址，虽然都是官网，但从这两个地址注册到的账户是相互独立的，建议在.com上注册。
 
 - Wise
 
 https://wise.com
 
-现在能获得香港银行帐户啦。
+现在能获得香港银行汇款帐户啦。
 
 - OKX
 

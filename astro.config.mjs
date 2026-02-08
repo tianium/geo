@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: '诺克斯的宝藏',
+			title: '地球生存手册',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/tianium/geo' }],
 			sidebar: [
 				{
@@ -15,6 +15,7 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: '总览', slug: 'guides/overview' },
 						{ label: '必要的准备', slug: 'guides/readiness' },
+						{ label: '关于我们的宇宙', slug: 'guides/universe' },
 					],
 				},
 				{
