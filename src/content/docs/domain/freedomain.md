@@ -17,6 +17,8 @@ dpdns.org
 
 qzz.io
 
+qd.je
+
 支持Cloudflare。
 
 - DNSHE

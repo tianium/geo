@@ -8,7 +8,7 @@ sidebar:
 
 ## 国际化域名（Internationalized Domain Names, IDN）
 
-国际化域名，为突破传统域名体系限制而生，旨在允许使用中文、emoji、阿拉伯文、日文等非拉丁字母注册，其核心原理是将非拉丁字符转换为由ASCII字符组成的Punycode编码，如“🍔.中国”对应的就是“xn--ui8h.xn--fiqs8s”。
+国际化域名，为突破传统域名体系限制，旨在支持中文、emoji、阿拉伯文、日文等非拉丁字母注册的域名，其核心原理是将非拉丁字符转换为由ASCII字符组成的Punycode编码，如“🍔.中国”对应的就是“xn--ui8h.xn--fiqs8s”。
 
 Punycode编码遵循RFC 3492标准，在确保DNS系统兼容的同时，由浏览器自动将Punycode转译为用户可读的网址，日常编解码可使用在线转换工具，如 [Punycoder](https://punycoder.com/)，输入“😊.com”就会生成“xn--o28h.com”，同时也可进行反解。注册域名时，需要我们在注册商的网站上填写这个以“xn--”开头的转化后的域名，注册好以后就可在浏览器地址栏直接使用emoji地址访问了。
 

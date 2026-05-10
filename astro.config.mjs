@@ -7,7 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: '地球生存手册',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/tianium/geo' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/tianium/terra' }],
 			sidebar: [
 				{
 					label: '开始',
@@ -20,31 +20,45 @@ export default defineConfig({
 				},
 				{
 					label: '网站生成',
-					autogenerate: { directory: 'website' },
+					items: [
+					{autogenerate: { directory: 'website' }},
+					],
 				},
 				{
 					label: '邮件',
-					autogenerate: { directory: 'mail' },
+					items: [
+					{autogenerate: { directory: 'mail' }},
+					],
 				},
 				{
 					label: '域名',
-					autogenerate: { directory: 'domain' },
+					items: [
+					{autogenerate: { directory: 'domain' }},
+					],
 				},
 				{
 					label: '部署平台',
-					autogenerate: { directory: 'serverless' },
+					items: [
+					{autogenerate: { directory: 'serverless' }},
+					],
 				},
 				{
 					label: '好用的软件',
-					autogenerate: { directory: 'software' },
+					items: [
+					{autogenerate: { directory: 'software' }},
+					],
 				},
 				{
 					label: '支付和理财',
-					autogenerate: { directory: 'finance' },
+					items: [
+					{autogenerate: { directory: 'finance' }},
+					],
 				},
 				{
 					label: '常见问题',
-					autogenerate: { directory: 'faq' },
+					items: [
+					{autogenerate: { directory: 'faq' }},
+					],
 				}
 			],
 		}),

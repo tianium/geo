@@ -11,7 +11,7 @@ description: A page in my Starlight docs site.
 
 https://docs.astro.build/zh-cn/getting-started/
 
-全功能Web框架，适合构建以内容驱动的网站。它减少了JavaScript的开销和复杂性，加载速度快，具有良好的SEO特性。
+全功能Web框架，适合构建以内容驱动的网站，它减少了JavaScript的开销，加载速度更快。
 
 - Hugo
 

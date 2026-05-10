@@ -4,7 +4,7 @@ description: A guide in my Starlight docs site.
 sidebar:
   order: 1
 ---
-收集各种没用的知识，感受蓝色星球的律动。
+收集各种没用的知识，感受蓝色星球的律动，过好地球上的每一天。
 
 宝藏属于每个人，只是你还没有掌握打开它的钥匙。
 
