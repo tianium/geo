@@ -4,6 +4,7 @@ description: A guide in my new Starlight docs site.
 sidebar:
   order: 2
 ---
+探索即将开始，请调试好你的设备。
 
 - IDE
 

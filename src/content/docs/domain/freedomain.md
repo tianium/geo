@@ -27,19 +27,21 @@ https://www.dnshe.com/
 
 提供免费域名：
 
-de5.net
+cn.mt
 
-us.ci
+ccwu.cc
 
 cc.cd
 
-全部支持Cloudflare。
+bbroot.com
+
+支持Cloudflare。
 
 - Cloudns
  
 https://www.cloudns.net/
 
-提供一个免费二级域名，同时也是DNS服务商，支持GeoDNS解析。
+提供一个免费二级域名，但免费用户无法修改NS，同时也是DNS服务商，支持GeoDNS解析。
 
 ## 开发者相关的免费域
 

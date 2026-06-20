@@ -19,13 +19,13 @@ export default defineConfig({
 					],
 				},
 				{
-					label: '网站生成',
+					label: '建立基地',
 					items: [
 					{autogenerate: { directory: 'website' }},
 					],
 				},
 				{
-					label: '邮件',
+					label: '对外通讯',
 					items: [
 					{autogenerate: { directory: 'mail' }},
 					],
@@ -37,19 +37,19 @@ export default defineConfig({
 					],
 				},
 				{
-					label: '部署平台',
+					label: '操作平台',
 					items: [
 					{autogenerate: { directory: 'serverless' }},
 					],
 				},
 				{
-					label: '好用的软件',
+					label: '日常必需品',
 					items: [
 					{autogenerate: { directory: 'software' }},
 					],
 				},
 				{
-					label: '支付和理财',
+					label: '生命支持系统',
 					items: [
 					{autogenerate: { directory: 'finance' }},
 					],

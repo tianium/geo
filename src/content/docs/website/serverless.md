@@ -1,6 +1,8 @@
 ---
 title: 无服务器部署
 description: A guide in my new Starlight docs site.
+sidebar:
+  order: 3
 ---
 
 - Vercel

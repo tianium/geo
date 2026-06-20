@@ -1,6 +1,8 @@
 ---
-title: 内容建设
+title: 建设网站
 description: A page in my Starlight docs site.
+sidebar:
+  order: 2
 ---
 
 ## 使用程序创建内容网站
